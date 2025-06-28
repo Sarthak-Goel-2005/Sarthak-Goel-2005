@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sarthak Goel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-goel-2005&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-goel-2005" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-goel-2005" alt="sarthak-goel-2005" /></a> </p>
+
+<img align="right" alt="coding" width="600" src="https://miro.medium.com/v2/resize:fit:1400/1*xZrSvUrS-6zQQBfevGed2w.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-goel-2005&show_icons=true&locale=en&layout=compact" alt="sarthak-goel-2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-goel-2005&show_icons=true&locale=en" alt="sarthak-goel-2005" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sarthak-goel-2005&show_icons=true&locale=en" alt="sarthak-goel-2005" /></p>
